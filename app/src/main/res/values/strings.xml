@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">DentistulMeu</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Parola</string>
+    <string name="action_sign_in">Autentificare sau inregistrare</string>
+    <string name="action_sign_in_short">Autentificare</string>
+    <string name="error_invalid_email">Adresa de email este invalida</string>
+    <string name="error_invalid_password">Parola este prea scurta</string>
+    <string name="error_incorrect_password">Parola este gresita</string>
+    <string name="error_field_required">Acest camp este obligatoriu</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_main">Lista Cabinete</string>
+
+    <string name="navigation_drawer_open">Deschide meniul</string>
+    <string name="navigation_drawer_close">Inchide meniul</string>
+
+    <string name="action_settings">Setari</string>
+    <string name="title_activity_cabinet_view">CabinetViewActivity</string>
+</resources>
